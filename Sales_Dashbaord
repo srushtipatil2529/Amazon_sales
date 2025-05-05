@@ -1,0 +1,101 @@
+# Amazon Sales Dashboard
+
+## Overview
+This Power BI dashboard provides comprehensive analytics and insights for Amazon sellers, enabling data-driven decision making and business performance monitoring. The dashboard integrates various Amazon Seller Central data sources to deliver actionable insights about sales, inventory, and customer behavior.
+
+## Features
+
+### 1. Sales Analytics
+- Real-time sales tracking
+- Revenue analysis by product and category
+- Sales trends and forecasting
+- Order volume monitoring
+- Average order value tracking
+
+### 2. Product Performance
+- Best-selling products analysis
+- Product ranking tracking
+- Inventory level monitoring
+- Stock-out rate analysis
+- Product category performance
+
+### 3. Financial Metrics
+- Gross and net profit analysis
+- Amazon fee breakdown
+- Advertising cost tracking
+- ROI calculation
+- Profit margin analysis
+
+### 4. Customer Insights
+- Customer review analysis
+- Return rate tracking
+- Customer feedback scores
+- Repeat purchase analysis
+- Customer satisfaction metrics
+
+## Data Sources
+- Amazon Seller Central API
+- Order reports
+- Inventory reports
+- Financial reports
+- Customer feedback data
+
+## Technical Implementation
+- Built using Power BI
+- DAX calculations for custom metrics
+- Automated data refresh
+- Interactive visualizations
+- Custom filtering and drill-down capabilities
+
+## Dashboard Components
+
+### Visualizations
+- Line charts for trend analysis
+- Bar charts for comparisons
+- Pie charts for distribution analysis
+- Heat maps for time-based analysis
+- Tables for detailed data views
+
+### Interactive Features
+- Date range selection
+- Product category filtering
+- Region-based analysis
+- Performance metric selection
+- Drill-down capabilities
+
+## Usage
+1. Connect to Amazon Seller Central
+2. Configure data refresh settings
+3. Select desired date range
+4. Apply relevant filters
+5. Analyze key metrics and insights
+
+## Benefits
+- Real-time business monitoring
+- Data-driven decision making
+- Inventory optimization
+- Performance tracking
+- Trend identification
+- Competitive analysis
+
+## Requirements
+- Power BI Desktop/Service
+- Amazon Seller Central account
+- API access credentials
+- Internet connection
+
+## Setup Instructions
+1. Clone this repository
+2. Open the .pbix file in Power BI Desktop
+3. Configure data source credentials
+4. Set up scheduled refresh (if using Power BI Service)
+5. Customize visuals and metrics as needed
+
+## Contributing
+Feel free to submit issues and enhancement requests!
+
+## License
+This project is licensed under the MIT License - see the LICENSE file for details.
+
+## Contact
+For any queries or support, please open an issue in the repository.
